@@ -7,8 +7,7 @@ public class Aviao {
 		private String Cor;
 		private double Peso;
 		
-		// Setters --> Acessar os dados e modificá-los;
-		// Getters --> Recuperar os dados que foram modificados;
+		
 		
 		public void setModelo(String Modelo) {
 			this.Modelo = Modelo;
